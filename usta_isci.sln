@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usta_isci", "usta_isci\usta_isci.csproj", "{7899E531-193B-4A41-9498-04A72B3548BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7899E531-193B-4A41-9498-04A72B3548BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7899E531-193B-4A41-9498-04A72B3548BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7899E531-193B-4A41-9498-04A72B3548BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7899E531-193B-4A41-9498-04A72B3548BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FAA720-3C84-4D8C-8493-D5BA446F8114}
+	EndGlobalSection
+EndGlobal
